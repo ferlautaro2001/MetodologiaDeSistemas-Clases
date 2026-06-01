@@ -1,6 +1,10 @@
 # 🧭 Clase 1 - Las 4P del Desarrollo de Software
 
 Resumen de la clase orientado a examen: cómo se conectan `Proyectos`, `Procesos`, `Productos` y `Personas`, con conceptos operativos de gestión.
+---
+# Volver
+> [⬅️ Volver al índice principal](../README.md)
+---
 
 ## Índice de Contenidos
 - [🚀 1. Proyectos](#-1-proyectos)
