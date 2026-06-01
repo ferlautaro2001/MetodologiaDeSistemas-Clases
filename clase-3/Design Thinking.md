@@ -1,6 +1,10 @@
 # 🧪 Clase 3 - Producto, Servicios y Pensamiento de Diseño
 
 Apunte visual para diferenciar `producto` y `servicio`, recorrer el ciclo de vida del producto y aplicar `design thinking` en decisiones de negocio.
+---
+# Volver
+> [⬅️ Volver al índice principal](../README.md)
+---
 
 ## Índice de Contenidos
 - [🚀 1. Producto vs Servicio](#-1-producto-vs-servicio)
