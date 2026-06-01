@@ -1,6 +1,10 @@
 # 🧩 Clase 5 - Proceso Unificado y Casos de Uso
 
 Apunte de estudio para dominar el `Proceso Unificado (UP)` y la captura de requisitos guiada por `casos de uso`.
+---
+# Volver
+> [⬅️ Volver al índice principal](../README.md)
+---
 
 ## Índice de Contenidos
 - [🚀 1. Qué es el Proceso Unificado](#-1-qué-es-el-proceso-unificado)
