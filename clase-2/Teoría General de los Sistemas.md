@@ -1,6 +1,11 @@
 # 🧠 Clase 2 - Teoría General de los Sistemas
 
 Resumen estructurado para estudiar los fundamentos de la `TGS`, la diferencia entre `dato` e `información` y el rol de un `sistema de información`.
+---
+# Volver
+> [⬅️ Volver al índice principal](../README.md)
+---
+# Clase 2 - Teoría General de los Sistemas
 
 ## Índice de Contenidos
 - [🚀 1. Origen y Enfoque](#-1-origen-y-enfoque)
